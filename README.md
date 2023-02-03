@@ -10,6 +10,7 @@ Binary Classification
 
 # EDA Explanation
 -The target data is unbalanced. To solve the problem I used a SMOTE
+
 -RandomizedSearchCV
 
 # Model(Using Hyperparameter)
